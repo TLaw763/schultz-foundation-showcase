@@ -3,3 +3,5 @@
 .showcase-banner button{position:absolute;right:10px;top:50%;transform:translateY(-50%);background:none;border:0;color:#fff;opacity:.7;font-size:20px;line-height:1;cursor:pointer;padding:6px}
 .showcase-banner button:hover{opacity:1}
 @media (max-width:600px){.showcase-banner{flex-direction:column;gap:6px;font-size:12px}}
+.showcase-credit{color:#fff;font-weight:700;text-decoration:underline;text-underline-offset:3px;white-space:nowrap}
+.showcase-credit:hover{color:#e83e8c}
